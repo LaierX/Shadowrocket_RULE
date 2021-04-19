@@ -5,6 +5,10 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikimedia.org
+DOMAIN,wikipedia.org
+DOMAIN,wikimedia.org
+USER-AGENT,Wikipedia*
+USER-AGENT,FBiO*
 
 # NAME: TikTok
 
@@ -24,3 +28,4 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TikTok*
+
