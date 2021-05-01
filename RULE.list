@@ -11,6 +11,16 @@ DOMAIN,wikimedia.org
 USER-AGENT,Wikipedia*
 USER-AGENT,FBiO*
 
+#NAME: Line
+
+DOMAIN-SUFFIX,gw.line.naver.jp
+DOMAIN-SUFFIX,uts-front.line-apps.com
+DOMAIN-SUFFIX,gww.line.naver.jp
+DOMAIN-SUFFIX,gw.lan.line.me
+USER-AGENT,LAN*
+USER-AGENT,Line*
+USER-AGENT,LINE*
+
 # NAME: TikTok
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net
