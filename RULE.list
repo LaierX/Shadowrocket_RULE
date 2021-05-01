@@ -22,6 +22,12 @@ USER-AGENT,LAN*
 USER-AGENT,Line*
 USER-AGENT,LINE*
 
+#NAME: Roblox
+
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,fb.gg
+USER-AGENT,ROBLOX
+
 # NAME: TikTok
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net
