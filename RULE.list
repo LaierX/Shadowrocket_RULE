@@ -16,7 +16,7 @@ USER-AGENT,FBiO*
 DOMAIN-SUFFIX,gw.line.naver.jp
 DOMAIN-SUFFIX,uts-front.line-apps.com
 DOMAIN-SUFFIX,gww.line.naver.jp
-DOMAIN-SUFFIX,gw.lan.line.me
+DOMAIN-KEYWORD,line.me
 USER-AGENT,LAN*
 USER-AGENT,Line*
 USER-AGENT,LINE*
