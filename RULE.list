@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN,wikipedia.org
 DOMAIN,wikimedia.org
+DOMAIN,gravatar.com
 USER-AGENT,Wikipedia*
 USER-AGENT,FBiO*
 USER-AGENT,Tumblr*
