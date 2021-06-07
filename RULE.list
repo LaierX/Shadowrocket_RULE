@@ -1,7 +1,7 @@
 # NAME: ME
 
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,twimg.com
+DOMAIN,twimg.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,tumblr.com
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN,byr.cn
 DOMAIN,wikipedia.org
 DOMAIN,wikimedia.org
+DOMAIN,twitter.com
 DOMAIN,gravatar.com
 USER-AGENT,Wikipedia*
 USER-AGENT,FBiO*
