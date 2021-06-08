@@ -16,6 +16,7 @@ DOMAIN,gravatar.com
 USER-AGENT,Wikipedia*
 USER-AGENT,FBiO*
 USER-AGENT,Tumblr*
+DOMAIN-KEYWORD,twimg.com
 
 #NAME: Line
 
