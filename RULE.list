@@ -1,18 +1,17 @@
 # NAME: ME
 
-DOMAIN-SUFFIX,ytimg.com
-# DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,sspanel.net
-DOMAIN-SUFFIX,tumblr.com
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN,byr.cn
-DOMAIN,*.twimg.com
-DOMAIN,wikipedia.org
-DOMAIN,wikimedia.org
-DOMAIN,gravatar.com
+DOMAIN-KEYWORD,ytimg.com
+DOMAIN-KEYWORD,ggpht.com
+DOMAIN-KEYWORD,sspanel.net
+DOMAIN-KEYWORD,tumblr.com
+DOMAIN-KEYWORD,wikipedia.org
+DOMAIN-KEYWORD,wikimedia.org
+DOMAIN-KEYWORD,dmm.co.jp
+DOMAIN-KEYWORD,byr.cn
+
+DOMAIN-KEYWORD,wikipedia.org
+DOMAIN-KEYWORD,wikimedia.org
+DOMAIN-KEYWORD,gravatar.com
 USER-AGENT,Wikipedia*
 USER-AGENT,FBiO*
 USER-AGENT,Tumblr*
@@ -20,9 +19,9 @@ DOMAIN-KEYWORD,twimg.com
 
 #NAME: Line
 
-DOMAIN-SUFFIX,gw.line.naver.jp
-DOMAIN-SUFFIX,uts-front.line-apps.com
-DOMAIN-SUFFIX,gww.line.naver.jp
+DOMAIN-KEYWORD,gw.line.naver.jp
+DOMAIN-KEYWORD,uts-front.line-apps.com
+DOMAIN-KEYWORD,gww.line.naver.jp
 DOMAIN-KEYWORD,line.me
 DOMAIN-KEYWORD,line-
 USER-AGENT,LAN*
@@ -31,32 +30,32 @@ USER-AGENT,LINE*
 
 #NAME: Roblox
 
-DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,roblox.com
-DOMAIN-SUFFIX,fb.gg
-DOMAIN-SUFFIX,fbwat.ch
+DOMAIN-KEYWORD,appsflyer.com
+DOMAIN-KEYWORD,roblox.com
+DOMAIN-KEYWORD,fb.gg
+DOMAIN-KEYWORD,fbwat.ch
 USER-AGENT,ROBLOX
 
 # NAME: TikTok
 
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,p16-tiktokcdn-com.akamaized.net
+DOMAIN-KEYWORD,amemv.com
+DOMAIN-KEYWORD,byteoversea.com
+DOMAIN-KEYWORD,ibytedtos.com
+DOMAIN-KEYWORD,ibyteimg.com
+DOMAIN-KEYWORD,ipstatp.com
+DOMAIN-KEYWORD,muscdn.com
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,sgpstatp.com
+DOMAIN-KEYWORD,snssdk.com
+DOMAIN-KEYWORD,tik-tokapi.com
+DOMAIN-KEYWORD,tiktok.com
+DOMAIN-KEYWORD,tiktokcdn.com
+DOMAIN-KEYWORD,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
-DOMAIN,tiktok.com
-DOMAIN,tiktokv.com
-DOMAIN,tiktokcdn.com
-DOMAIN,snssdk.com
+DOMAIN-KEYWORD,tiktok.com
+DOMAIN-KEYWORD,tiktokv.com
+DOMAIN-KEYWORD,tiktokcdn.com
+DOMAIN-KEYWORD,snssdk.com
 USER-AGENT,TikTok*
 
