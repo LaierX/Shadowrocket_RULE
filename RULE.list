@@ -10,17 +10,17 @@ DOMAIN-KEYWORD,dmm.co.jp
 DOMAIN-KEYWORD,byr.cn
 DOMAIN-KEYWORD,v2ex.com
 DOMAIN-KEYWORD,t.me
-DOMAIN-KEYWORD,googleapis.com
-
+DOMAIN-KEYWORD,twimg.com
 DOMAIN-KEYWORD,wikipedia.org
 DOMAIN-KEYWORD,wikimedia.org
 DOMAIN-KEYWORD,gravatar.com
+
 USER-AGENT,Wikipedia*
 USER-AGENT,FBiO*
 USER-AGENT,Tumblr*
 USER-AGENT,Twitt*
 USER-AGENT,VoiceApp*
-DOMAIN-KEYWORD,twimg.com
+
 
 #NAME: Line
 
