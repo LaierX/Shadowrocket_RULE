@@ -14,7 +14,8 @@ DOMAIN-KEYWORD,twimg.com
 DOMAIN-KEYWORD,wikipedia.org
 DOMAIN-KEYWORD,wikimedia.org
 DOMAIN-KEYWORD,gravatar.com
-DOMAIN-KEYWORD,discord*.com
+DOMAIN-KEYWORD,discord.com
+DOMAIN-KEYWORD,discordapp.com
 
 USER-AGENT,Wikipedia*
 USER-AGENT,FBiO*
